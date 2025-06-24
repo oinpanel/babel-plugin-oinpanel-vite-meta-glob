@@ -1,9 +1,9 @@
-# Babel Plugin Shopware Vite Meta Glob
+# Babel Plugin OinPanel Vite Meta Glob
 
 ## Overview
 
 A Babel plugin that transforms `import.meta.glob()` calls to support dynamic
-module imports in Shopware and Vite-like environments. This plugin provides two
+module imports in OinPanel and Vite-like environments. This plugin provides two
 main transformation strategies:
 
 > **⚠️ Warning: Not Recommended for Production Use**
